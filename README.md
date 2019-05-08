@@ -1,6 +1,8 @@
 # Dice Game
 ## Game written in vanilla JavaScript
 
+(https://github.com/andres-cruz/dice-game/blob/master/game.png)
+
 ### GAME RULES:
 
 1. The game has 2 players, playing in rounds.
