@@ -1,7 +1,7 @@
 # Dice Game
 ## Game written in vanilla JavaScript
 
-(https://github.com/andres-cruz/dice-game/blob/master/game.png)
+(https://raw.githubusercontent.com/andres-cruz/dice-game/master/game.png?token=AHQIQXMSIJ4MX2ECQV5WKYS43STRS)
 
 ### GAME RULES:
 
